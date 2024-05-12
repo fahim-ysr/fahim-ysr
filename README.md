@@ -19,8 +19,8 @@ Hello there! I'm Fahim...
   <summary><strong>🌐Connect with me</strong></summary>
 <div>
   <p align="center">
-    <a href="https://linkedin.com/in/fahim-yasir" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fahimyasir"></a>
-    <a href="mailto:fahim.yasir2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fahimyasir2001"/></a>
+    <a href="https://linkedin.com/in/fahim-yasir" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:fahim.yasir2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p><br>
 </div>
 </details>
