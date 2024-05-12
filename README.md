@@ -2,9 +2,8 @@
 
 Hello there! I'm Fahim...
 </br>
-- 🎓 A second-year Computer Science student at Memorial University of Newfoundland
+- 🎓 A third-year Computer Science student at Memorial University of Newfoundland
 - 👔 Aspiring entrepreneur fueled by a passion for leveraging tech skills to solve real-world problems
-- ⚡ Proficient in Python, Java, JavaScript, CSS, and HTML
 - 🛍️ Specialized in crafting compelling and marketable content for diverse audiences using AI and tools such as Adobe Photoshop, Premiere Pro, Capcut, Canva, etc
 - 👨‍💻 Currently learning multiple languages
 - ⚒️ Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code
