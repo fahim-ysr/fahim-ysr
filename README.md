@@ -13,11 +13,13 @@
 </br>
 - 🗺️ Join me on my journey as I explore the world of technology and entrepreneurship on GitHub!
 </br>
-- 📫 Feel free to reach out to me at fahim.yasir2001@gmail.com.
+- 📫 Feel free to reach out to me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.
 </br>
 </br>
 
-<img src="img/comp6.gif"/>
+<p align="center">
+<img height=400px src="img/comp6.gif"/>
+</p>
 
 <details>
   <summary><strong><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></strong></summary>
