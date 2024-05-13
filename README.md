@@ -1,6 +1,5 @@
-# <img src="img/wave.gif" width="30px" height="30px" /> About Me :
+<h1 align="center"><b><img src="img/wave.gif" width="30px" height="30px" /> Hello there! I'm Fahim... </b></h1>
 
-Hello there! I'm Fahim...
 </br>
 - 🎓 A third-year Computer Science student at Memorial University of Newfoundland
 - 👔 Aspiring entrepreneur fueled by a passion for leveraging tech skills to solve real-world problems
