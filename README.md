@@ -1,32 +1,27 @@
-<h1 align="center"><b><img src="img/wave.gif" width="30px" height="30px" /> Hello there! I'm Fahim... </b></h1>
+<h1 align="center"><b><img src="img/wave.gif" width="30px" height="30px" /> Hello there, I'm Fahim Yasir </b></h1>
 
 </br>
-- 🎓 A third-year Computer Science student at Memorial University of Newfoundland
-- 👔 Aspiring entrepreneur fueled by a passion for leveraging tech skills to solve real-world problems
-- 🛍️ Specialized in crafting compelling and marketable content for diverse audiences using AI and tools such as Adobe Photoshop, Premiere Pro, Capcut, Canva, etc
-- 👨‍💻 Currently learning multiple languages
-- ⚒️ Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code
+- 🎓 A third-year Computer Science student at Memorial University of Newfoundland.
+</br>
+- 👔 Aspiring entrepreneur fueled by a passion for leveraging tech skills to solve real-world problems.
+</br>
+- 🛍️ Specialized in crafting compelling and marketable content for diverse audiences using AI and tools such as Adobe Photoshop, Premiere Pro, Capcut, Canva, etc.
+</br>
+- 👨‍💻 Currently learning multiple languages.
+</br>
+- ⚒️ Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.
+</br>
 - 🗺️ Join me on my journey as I explore the world of technology and entrepreneurship on GitHub!
-- 📫 How to reach me: fahim.yasir2001@gmail.com
+</br>
+- 📫 Feel free to reach out to me at fahim.yasir2001@gmail.com.
 </br>
 </br>
 
 <img src="img/comp6.gif"/>
 
-
 <details>
-  <summary><strong>🌐Connect with me</strong></summary>
-<div>
-  <p align="center">
-    <a href="https://linkedin.com/in/fahim-yasir" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:fahim.yasir2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  </p><br>
-</div>
-</details>
-
-
-<details>
-  <summary><strong>🚀Skills</strong></summary>
+  <summary><strong><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b></strong></summary>
+  
 <div>
   <p align="center">
     <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -67,10 +62,21 @@
 
 
 <details>
-<summary><strong>📊GitHub Stats</strong></summary>
+<summary><strong><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
+<br></strong></summary>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
+|Github Statistics|Languages|
+|-|-|
+|[![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/hechadielhassania)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
+
+<details>
+  <summary><strong>🌐Connect with me</strong></summary>
+<div>
+  <p align="center">
+    <a href="https://linkedin.com/in/fahim-yasir" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:fahim.yasir2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  </p><br>
+</div>
 </details>
