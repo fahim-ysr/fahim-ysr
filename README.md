@@ -20,7 +20,7 @@
 <img src="img/comp6.gif"/>
 
 <details>
-  <summary><strong><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b></strong></summary>
+  <summary><strong><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></strong></summary>
   
 <div>
   <p align="center">
@@ -70,6 +70,8 @@
 |-|-|
 |[![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/hechadielhassania)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</br>
+</details>
 
 <details>
   <summary><strong>🌐Connect with me</strong></summary>
