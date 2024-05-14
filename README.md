@@ -85,7 +85,7 @@
 
 
 
-## <img src="./img/LetsConnect.gif" width ="60"><b> Let's Connect..!</b>
+## <img src="./img/LetsConnect.gif" width ="60"><b> Let's Connect!</b>
 
 <br>
 <div align='left'>
