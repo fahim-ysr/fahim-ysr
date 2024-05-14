@@ -11,7 +11,7 @@
 </br>
 - ⚒️ Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.
 </br>
-- 📫 Feel free to reach out to me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.
+- 📫 Please feel free to reach out to me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.
 
 <p align="center">
 </br>
