@@ -2,7 +2,7 @@
 
 <div>
 	<ul>
-		<li>🎓 A third-year BSc in Computer Science student at Memorial University of Newfoundland.</li>
+		<li>🎓 A third-year BSc in Computer Science student at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a>.</li>
 		<li>👔 Aspiring entrepreneur fueled by a passion for leveraging tech skills to solve real-world problems.</li>
 		<li>🛍️ Specialized in crafting compelling and marketable content for diverse audiences using AI and tools such as Adobe Photoshop, Premiere Pro, Capcut, Canva, etc.</li>
 		<li>👨‍💻 Currently learning multiple languages.</li>
