@@ -11,14 +11,11 @@
 </br>
 - ⚒️ Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.
 </br>
-- 🗺️ Join me on my journey as I explore the world of technology and entrepreneurship on GitHub!
-</br>
 - 📫 Feel free to reach out to me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.
 
-</br>
-</br>
-
 <p align="center">
+</br>
+</br>
 <img height=400px src="img/comp6.gif"/>
 </p>
 
@@ -77,11 +74,10 @@
     ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
     
 </p>
+</br>
 
 
-
-<summary><strong><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
-<br></strong></summary>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 <br>
 
 |Github Statistics|Languages|
@@ -92,7 +88,7 @@
 
 
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <img src="./img/LetsConnect.gif" width ="60"><b> Let's Connect..!</b>
 
 <br>
 <div align='left'>
