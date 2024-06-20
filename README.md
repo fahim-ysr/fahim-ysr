@@ -51,7 +51,7 @@
 
   - **Learning**:
 
-    [![Learning](https://skillicons.dev/icons?i=express,js,mongodb,mysql,nodejs,react,ts)](https://skillicons.dev)
+    [![Learning](https://skillicons.dev/icons?i=aws,express,js,mongodb,mysql,nodejs,react,ts)](https://skillicons.dev)
     
 </p>
 </br>
