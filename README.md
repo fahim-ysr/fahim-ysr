@@ -5,7 +5,7 @@
 		<li>🎓 3rd Year BSc. in CS student w/ Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a>.</li>
 		<li> 🌐 Software and Web Developer. </li>
 		<li> 🛍️ Passionate in crafting compelling and marketable content for diverse audiences using AI. </li>
-		<li> 🧑‍💻 Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.</li>
+		<li> 🧑‍💻 Enjoy building projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.</li>
 		<li> 📫 Reach me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.</li>
 </div>
 
