@@ -78,9 +78,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 <br>
 
-|Github Statistics|Languages|
-|-|-|
-|[![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/fahim-ysr)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-ysr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://myreadme.vercel.app/api/embed/fahim-ysr?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 </br>
 
