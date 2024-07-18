@@ -2,13 +2,11 @@
 
 <div>
 	<ul>
-		<li>🎓 A third-year BSc in Computer Science student with a Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a>.</li>
-		<li>Aspiring entrepreneur fueled by a passion for leveraging tech skills to solve real-world problems.</li>
-		<li>🌐 Specialized in Software and Web Development. </li>
-		<li> 🛍️ Passionate in crafting compelling and marketable content for diverse audiences using AI and tools such as Adobe Photoshop, Premiere Pro, Capcut, Canva, etc.</li>
-		<li>🧑‍💻 Currently learning multiple languages.</li>
-		<li>Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.</li>
-		<li>📫 Please feel free to reach out to me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.</li>
+		<li>🎓 3rd Year CS student w/ Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a>.</li>
+		<li> 🌐 Software and Web Developer. </li>
+		<li> 🛍️ Passionate in crafting compelling and marketable content for diverse audiences using AI. </li>
+		<li> 🧑‍💻 Enjoy constructing projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.</li>
+		<li> 📫 Reach me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.</li>
 </div>
 
 <p align="center">
