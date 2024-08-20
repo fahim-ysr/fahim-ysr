@@ -1,11 +1,11 @@
-<h1 align="center"><b><img src="img/wave.gif" width="30px" height="30px" /> Hello there, I'm Fahim Yasir </b></h1>
+<h1 align="center"><b><img src="img/wave.gif" width="30px" height="30px" /> Hi I'm Fahim </b></h1>
 
 <div>
 	<ul>
-		<li>🎓 3rd Year BSc. in CS student w/ Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a>.</li>
-		<li> 🌐 Software and Web Developer. </li>
-		<li> 🛍️ Passionate in crafting compelling and marketable content for diverse audiences using AI. </li>
-		<li> 🧑‍💻 Enjoy building projects from the ground up, from meticulous planning and design to addressing real-life challenges through code.</li>
+		<li>🎓 A 3rd Year BSc in CS student w/ Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a>.</li>
+		<li> 🌐 Aspiring Software & Web Developer. </li>
+		<li> 🚀 Skills: Full Stack Web Development, Photography, Graphic Design, Content Creation and Digital Marketing. </li>
+		<li> 🧑‍💻 Enjoys solving real life problems with code.</li>
 		<li> 📫 Reach me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.</li>
 </div>
 
