@@ -5,7 +5,7 @@
 		<li>🎓 A 3rd Year BSc in CS student w/ Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a>.</li>
 		<li> 🌐 Aspiring Software & Web Developer. </li>
 		<li> 🚀 Skills: Full Stack Web Development, Photography, Content Creation and Digital Marketing. </li>
-		<li> 🧑‍💻 Enjoys solving real life problems with code.</li>
+		<li> 🧑‍💻 Enjoys turning real life problems into code solution.</li>
 		<li> 📫 Reach me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a>.</li>
 </div>
 
