@@ -2,7 +2,7 @@
 
 <div>
 	<ul>
-		<li>🎓 A Senior BSc (Hon) in CS student w/ Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a></li>
+		<li>🎓 A Senior BSc (Hons) in CS student w/ Minor in Business Administration at <a href="https://www.mun.ca/">Memorial University of Newfoundland</a></li>
 		<li> 🌐 Aspiring Data Science & AI/ML Engineer </li>
 		<li> 🧑‍💻 Enjoys turning real life problems into code solution</li>
 		<li> 📫 Reach me at  <a href="mailto:fahim.yasir2001@gmail.com">fahim.yasir2001@gmail.com</a></li>
